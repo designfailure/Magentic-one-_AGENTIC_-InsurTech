@@ -1,4 +1,5 @@
-# Magentic-one-_AGENTIC_-InsurTech
+# Magentic-one AGENTIC InsurTech
+
 Magentic-one AGENTIC workflow system for InsurTech @Insur.Cap
 
 ![magentic-one 0](https://github.com/user-attachments/assets/5b60537c-8833-4c2c-82a7-7714c8152542)
